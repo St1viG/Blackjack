@@ -1,0 +1,43 @@
+p{ 
+    
+    position:fixed;
+    background-image:url(./resources/istockphoto-1291005663-612x612.jpg);
+    background-repeat:no-repeat;
+    right:50%;
+    height:500px;
+    text-align: center;
+}
+l{  padding:20px;
+    font-size:100px;
+    color:gold;
+}
+img{
+    padding:2px;
+}
+#new{
+
+
+    margin:10px;
+    position:center;
+    padding:5px;
+}
+#end{
+
+    margin:10px;
+    position:center;
+    padding:5px;
+}
+#nova{
+
+    margin:10px;
+    position:center;
+    padding:5px;
+}
+#kraj{
+    font-size:30px;
+    color:red;
+    font-weight:bold;
+}
+brom{
+    color:blue;
+}
