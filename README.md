@@ -1,1 +1,2 @@
-Made as a side project after having an assigment to make a basic website for school.
+I made it as a side project after having an assignment to make a basic website for school.
+link to try: https://blackjacksg.000webhostapp.com/
